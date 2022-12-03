@@ -1,0 +1,67 @@
+body{
+	background-image: url("background.jpg");
+	font-family:Trebuchet MS, sans-serif
+}
+.images{
+	width:120px;
+	height:130px;
+}
+.iphone-name{
+	float:left;
+	font-size:25px;
+}
+.pixel-name{
+	float:right;
+	font-size:25px;
+}
+.headings{
+	background:	#D8D8D8;
+	border-radius:10px;
+}
+.iphone-specs{
+	font-weight:bold;
+	border-radius:10px;
+	font-size:20px;
+	background:#D8D8D8;
+	width:180px;
+	height:70px;
+	float:left;
+	text-align:center;
+}
+.pixel-specs{
+	font-weight:bold;
+	border-radius:10px;
+	font-size:20px;
+	background:#D8D8D8;
+	width:180px;
+	height:70px;
+	float:right;
+	text-align:center;
+}
+.material-symbols-outlined {
+	cursor:pointer;
+	background:white;
+	color:black;
+	width:30px;
+	height:35px;
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 48
+}
+#search-box{
+	font-size:20px;
+	border-radius: 10px;
+	background:white;
+	width:250px;
+	height:40px;
+}
+#apple-id{
+	width:120px;
+	height:120px;
+}
+#pixel-id{
+	width:120px;
+	height:120px;
+}
