@@ -4,6 +4,11 @@ ipContainer.onclick = () => {
 }
 
 let searchTxt = document.getElementById('search-box').value
+
+function redMis()
+{
+	window.open("redmi-realmi.html", "blank")
+}
 //let arr = []
 
 function searchIt(){
