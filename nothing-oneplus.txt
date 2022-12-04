@@ -11,9 +11,7 @@ display features
 Display Size 16.64 cm (6.55 inch)
 Resolution 2400 x 1080 Pixels
 Resolution Type Full HD+
-GPU Qualcomm Adreno 642L
 Display Type Full HD Flexible OLED Display
-HD Game Support Yes
 brightness 1,200 nits
 Adaptive Refresh Rate: 60 Hz - 120 Hz
 Touch Sampling Rate: 240 Hz
@@ -25,17 +23,26 @@ Weight 194 g
 Network Type 5G, 4G, 3G, 2G
 Operating System Android 12
 Processor Core Octa Core
+price ₹29,999
 
 
 
 
 
 
-
-oneplus nord 2t 5g
+ONEPLUS NORD 2T 5G
 basic features 
 8GB,12GB ram | 128GB,256 storage
 17.02 cm (6.7 inch) Display
 50MP Rear Camera
 4500 mAh Battery
 mediatek dimensity 1300
+display features 
+Display Size 17.02 cm (6.7 inch)
+Resolution 2400*1080
+90Hz AMOLED display
+other deatails 
+operating system oxygenOS based on android 12
+Processor Core Deca Core
+SIM Type Dual Sim
+price ₹28,999
