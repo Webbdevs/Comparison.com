@@ -9,6 +9,10 @@ function redMis()
 {
 	window.open("redmi-realmi.html", "blank")
 }
+function nothings()
+{
+	window.open("oneplus-nothing.html", "blank")
+}
 //let arr = []
 
 function searchIt(){
