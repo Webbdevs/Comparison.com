@@ -2,13 +2,14 @@ redmi 11 prime 5g
 
 
 4 GB RAM,6 GB RAM | 64 GB ROM,128 GB ROM
-16.71 cm (6.58 inch) Display
+16.71 cm (6.58 inch) Display 90Hz refresh rate 
 5MP Rear Camera
 5000 mAh Battery
 Resolution 2400 x 1080 Pixels
 SIM Type Dual Sim
 processor media Tek dimensity 700 with 5G, 7nm Octa-core processor; up to 2.2GHz
 In The Box Handset, Power Adapter, Micro USB Cable, SIM Insertion Tool, Warranty Card, User Guid
+weight 200g 
 
 
 
@@ -44,6 +45,38 @@ processor  Qualcomm Snapdragon 888 Processor
 Resolution 3216 X 1440$$pixels
 SIM Type Dual Sim
 In The Box Handset,Warp Charge 65 Power Adapter, Warp Charge Type-C to Type-C Cable, Quick Start Guide, Welcome Letter, Safety Information and Warranty Card, LOGO Sticker, Case, Screen Protector & SIM Tray Ejector
+weight 197 g
 
 
 
+OnePlus 10 Pro 5G
+
+
+
+
+8 GB RAM,12 GB RAM  | 128 GB ROM, 256 GB ROM
+17.02 cm (6.7 inch) Display 120 Hz refresh rate 
+48MP Rear Camera
+5000 mAh Battery
+processor qualcomm snapdragon 8 gen 1 
+Resolution 3216 x 1440 pixel
+In The Box Handset, 80W SUPERVOOC Power Adapter::Type-C Cable::Quick Start Guide::Welcome Letter::Safety Information and Warranty Card::Screen Protector (pre-applied)::Protective Case::SIM Tray Ejector
+SIM Type Dual Sim
+weight 200.5 g
+
+
+
+
+nothing phone 1
+
+
+
+
+12 GB RAM,8 GB RAM | 256 GB ROM,128 GB ROM
+16.64 cm (6.55 inch) Full HD+ Display Brightness: 500 nits, Peak Brightness: 1,200 nits, Adaptive Refresh Rate: 60 Hz - 120 Hz, Touch Sampling Rate: 240 Hz
+50MP + 50MP | 16MP Front Camera
+4500 mAh Lithium-ion Battery
+Qualcomm Snapdragon 778G+ Processor
+Resolution 2400 x 1080 Pixels
+In The Box Handset, USB-C Cable, Sim Tray Ejector, Safety Information and Warranty Card
+weight 194 g
