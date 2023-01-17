@@ -5,11 +5,11 @@ redmi 11 prime 5g
 16.71 cm (6.58 inch) Display 90Hz refresh rate 
 5MP Rear Camera
 5000 mAh Battery
+processor media Tek dimensity 700 with 5G, 7nm Octa-core processor; up to 2.2GHz
 Resolution 2400 x 1080 Pixels
 SIM Type Dual Sim
-processor media Tek dimensity 700 with 5G, 7nm Octa-core processor; up to 2.2GHz
-In The Box Handset, Power Adapter, Micro USB Cable, SIM Insertion Tool, Warranty Card, User Guid
 weight 200g 
+In The Box Handset, Power Adapter, Micro USB Cable, SIM Insertion Tool, Warranty Card, User Guid
 
 
 
@@ -25,8 +25,8 @@ realme 9i 5G
 Mediatek Dimensity 810 5G Processor 2.4 GHz
 Resolution 2408 x 1080 Pixels 
 SIM Type Dual Sim
-In The Box Handset, 18W Fast Charger, USB Type-C Cable, Protect Case, Sim Card Tool, Screen Protect Film, Quick Start Guide, Important Product Information (Including the Warranty Card)
 Weight 187 g
+In The Box Handset, 18W Fast Charger, USB Type-C Cable, Protect Case, Sim Card Tool, Screen Protect Film, Quick Start Guide, Important Product Information (Including the Warranty Card)
 
 
 
@@ -44,8 +44,8 @@ OnePlus 9 Pro 5G
 processor  Qualcomm Snapdragon 888 Processor 
 Resolution 3216 X 1440$$pixels
 SIM Type Dual Sim
-In The Box Handset,Warp Charge 65 Power Adapter, Warp Charge Type-C to Type-C Cable, Quick Start Guide, Welcome Letter, Safety Information and Warranty Card, LOGO Sticker, Case, Screen Protector & SIM Tray Ejector
 weight 197 g
+In The Box Handset,Warp Charge 65 Power Adapter, Warp Charge Type-C to Type-C Cable, Quick Start Guide, Welcome Letter, Safety Information and Warranty Card, LOGO Sticker, Case, Screen Protector & SIM Tray Ejector
 
 
 
@@ -60,9 +60,9 @@ OnePlus 10 Pro 5G
 5000 mAh Battery
 processor qualcomm snapdragon 8 gen 1 
 Resolution 3216 x 1440 pixel
-In The Box Handset, 80W SUPERVOOC Power Adapter::Type-C Cable::Quick Start Guide::Welcome Letter::Safety Information and Warranty Card::Screen Protector (pre-applied)::Protective Case::SIM Tray Ejector
 SIM Type Dual Sim
 weight 200.5 g
+In The Box Handset, 80W SUPERVOOC Power Adapter::Type-C Cable::Quick Start Guide::Welcome Letter::Safety Information and Warranty Card::Screen Protector (pre-applied)::Protective Case::SIM Tray Ejector
 
 
 
@@ -78,5 +78,22 @@ nothing phone 1
 4500 mAh Lithium-ion Battery
 Qualcomm Snapdragon 778G+ Processor
 Resolution 2400 x 1080 Pixels
-In The Box Handset, USB-C Cable, Sim Tray Ejector, Safety Information and Warranty Card
+SIM TYPE dual sim 
 weight 194 g
+In The Box Handset, USB-C Cable, Sim Tray Ejector, Safety Information and Warranty Card
+
+
+
+
+
+
+realme 10 Pro 5G 
+
+
+
+
+8 GB RAM | 128 GB ROM | Expandable Upto 1 TB
+17.07 cm (6.72 inch) Full HD+ Display
+108MP + 2MP | 16MP Front Camera
+5000 mAh Battery
+Qualcomm Snapdragon 695 5G Processor
